@@ -1,4 +1,4 @@
-# KingJamesBible / 09nov2025 / MIT License
+# KingJamesBible v1.0.2160 / 09nov2025 / MIT License
 Read and search The King James Bible with this easy to use offline app.
 
 <img src="images/kingjamesbible-screenshot.jpg">
