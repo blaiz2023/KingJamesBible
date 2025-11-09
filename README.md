@@ -3,7 +3,7 @@ Read and search The King James Bible with this easy to use offline app.
 
 <img src="images/kingjamesbible-screenshot.jpg">
 
-Features
+# Features
 * Comes with 3 built-in public domain bibles (see below)
 * Use one, two, or three simultaneous search panels side-by-side
 * Mark matched words by highlight, underline, bold, or turn off
