@@ -37,6 +37,3 @@ Download <a href="src/kingjamesbible.exe">kingjamesbible.exe</a> or from the "<a
 <br>
 
 <img src="images/kingjamesbible-screenshot4.jpg">
-<br>
-
-<img src="images/cynthia-screenshot5.jpg">
