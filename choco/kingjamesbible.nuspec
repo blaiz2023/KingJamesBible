@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>kingjamesbible</id>
+    <version>1.0.2160</version>
+    <title>King James Bible</title>
+    <authors>Blaiz Enterprises</authors>
+    <owners>Blaiz Enterprises</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://www.blaizenterprises.com/kingjamesbible.html#help--mit-license</licenseUrl>
+    <projectUrl>https://www.blaizenterprises.com/kingjamesbible.html</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/blaiz2023/KingJamesBible/bf6e4681bd422566223421c08231057a214697d9/images/kingjamesbible-256.png</iconUrl>
+    <description>Read and search The King James Bible with this easy to use offline app.
+
+![King James Bible v1.0.2160 Screenshot](https://rawcdn.githack.com/blaiz2023/KingJamesBible/bf6e4681bd422566223421c08231057a214697d9/images/kingjamesbible-screenshot.jpg)
+
+Features
+* Comes with 3 built-in public domain bibles (see below)
+* Use one, two, or three simultaneous search panels side-by-side
+* Mark matched words by highlight, underline, bold, or turn off
+* Compact option: Title and passage appear on the same line
+* Read text easily in the custom text viewer
+* Large, easy to use search box
+* Option: Search as you type
+* Search by text (book), by testament (old or new), or entire bible
+* Search Options: Match all words, Match whole words
+* Shared Search History: Retain and reuse your last 100 search queries from all three search panels
+* History Options: Edit history and Clear history
+* Fast search
+* Works offline - no internet required
+* Options Window - Easily change app color, font, and settings
+* Portable
+* Smart Source Code (Borland Delphi 3 and Lazarus 2)
+
+Comes complete with these 3 built-in public domain bibles
+* (AKJV) American King James Version
+* (KJV) King James Bible - Pure Cambridge Edition
+* (OKJV) King James Bible 1611</description>
+    <summary>Read and search The King James Bible with this easy to use offline app.</summary>
+    <copyright>2025 Blaiz Enterprises</copyright>
+    <tags>read search the king james bible offline app portable</tags>
+    <projectSourceUrl>https://github.com/blaiz2023/KingJamesBible/</projectSourceUrl>
+    <packageSourceUrl>https://github.com/blaiz2023/KingJamesBible//tree/main/choco</packageSourceUrl>
+    <docsUrl>https://www.blaizenterprises.com/kingjamesbible.html#help</docsUrl>
+    <bugTrackerUrl>https://www.blaizenterprises.com/contact.html</bugTrackerUrl>
+  </metadata>
+</package>
